@@ -40,13 +40,22 @@ Master's & Bachelor's graduate in Engineering Physics from **Bandung Institute o
 
 ### 📂 Featured Projects
 
-Some of my data analytics projects:
+Selected data analytics projects demonstrating business analysis, statistical testing, customer analytics, and data-driven insights:
 
-- 📊 **Kimia Farma Selling Report** — SQL-based sales analysis and data visualization.
-- 💳 **Credit Risk Analysis** — Financial data analysis and risk-related insights.
-- 🎵 **Music Interest Analysis** — Exploratory data analysis and customer/user behavior insights.
-- 🚗 **Car Sales Analysis** — Sales data exploration and business insights.
-- 🧪 **Hypothesis Testing on Paid Package Users** — Statistical analysis and hypothesis testing.
+* 📊 **A/B Testing & Funnel Analysis — Food App**
+  Analyzed user behavior and conversion funnels, including A/A and A/B testing to evaluate experiment groups and identify differences in user conversion.
+
+* 🧪 **A/B Testing — Recommender System**
+  Evaluated a recommender system experiment using conversion funnel analysis, statistical hypothesis testing, and comparison of experiment groups.
+
+* 💰 **Marketing Cost Budget Optimization**
+  Analyzed customer acquisition, marketing costs, CAC, LTV, and ROI to evaluate marketing channel performance and support budget optimization.
+
+* 📡 **Telecom Customer Revenue & Hypothesis Testing**
+  Analyzed customer usage and revenue across subscription plans and geographic regions, followed by statistical hypothesis testing using independent t-tests.
+
+* 🛍️ **E-commerce Customer Segmentation & Purchasing Behavior**
+  Applied K-Means clustering, purchasing behavior analysis, cohort analysis, and hypothesis testing to identify distinct customer segments and purchasing patterns.
 
 More projects are available in my repositories below.
 
