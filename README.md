@@ -1,7 +1,9 @@
 # Hi there, I'm I Putu Darma Ruswara 👋 
 
-### 📊 Data Analyst & Analytics Engineer
-Data professional with 3+ years of experience in the banking and financial services sector. I specialize in **SQL development, data pipeline engineering, automated BI reporting, and data governance**. 
+### 📊 Data Analyst | Business Analytics & Data Governance
+Data Analyst with 4+ years of experience across banking, financial services, product analytics, and data governance. I specialize in **SQL, customer & transaction analytics, KPI reporting, dashboard development, data quality, and business insights**. 
+
+I have experience working with banking data and translating analytical findings into actionable insights to support business, product, and operational decisions.
 
 Master's & Bachelor's graduate in Engineering Physics from **Bandung Institute of Technology (ITB)**.
 
@@ -22,14 +24,31 @@ Master's & Bachelor's graduate in Engineering Physics from **Bandung Institute o
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Core Focus Areas:**  
-`Data Pipeline/ETL` • `Data Profiling & Quality` • `A/B Testing & Nudges` • `Campaign Optimization` • `Dashboard Automation`
+`Data Analysis` • `Transaction Analysis` • `Customer Analytics` • `Data Profiling & Quality` • `KPI Monitoring` • `Data Governance` • `Dashboard Automation`
 
 ---
 
-### 🚀 What I'm Up To
-- 🔍 **Currently working on:** Advanced SQL query optimization, data quality monitoring frameworks, and automated dashboards.
-- 💡 **Interested in:** Fintech, financial inclusion, risk modeling, and strategic business intelligence.
-- 🎓 **Continuous Learning:** Machine learning fundamentals and modern data stack orchestration.
+### 🚀 What I Do
+
+- 📊 **Data Analysis:** Analyze customer, transaction, product, and operational data to identify trends and business opportunities.
+- 🧮 **SQL & Data Processing:** Build SQL queries for data extraction, transformation, validation, and analytical reporting.
+- 📈 **Dashboard & Reporting:** Develop automated dashboards and KPI reports using Power BI, Tableau, Looker Studio, and Excel.
+- 🔍 **Data Quality & Governance:** Perform data profiling, integrity validation, anomaly detection, and data quality monitoring.
+- 💡 **Business Insights:** Translate analytical findings into actionable recommendations for business and product decisions.
+
+---
+
+### 📂 Featured Projects
+
+Some of my data analytics projects:
+
+- 📊 **Kimia Farma Selling Report** — SQL-based sales analysis and data visualization.
+- 💳 **Credit Risk Analysis** — Financial data analysis and risk-related insights.
+- 🎵 **Music Interest Analysis** — Exploratory data analysis and customer/user behavior insights.
+- 🚗 **Car Sales Analysis** — Sales data exploration and business insights.
+- 🧪 **Hypothesis Testing on Paid Package Users** — Statistical analysis and hypothesis testing.
+
+More projects are available in my repositories below.
 
 ---
 
@@ -37,3 +56,4 @@ Master's & Bachelor's graduate in Engineering Physics from **Bandung Institute o
 - 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/i-putu-darma-ruswara-329366148/)
 - ✉️ **Email:** darmaruswara@gmail.com
 - 🌐 **Portfolio:** [GitHub Projects](https://github.com/darmaputu/)
+- 💻 **Upwork:** [Upwork Profile](https://www.upwork.com/freelancers/~01299ccc7efce03dea)
